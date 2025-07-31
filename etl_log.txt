@@ -1,0 +1,26 @@
+2025-07-18 21:00:50,953 - INFO - ETL Scheduler initialized.
+2025-07-18 21:00:50,953 - INFO - Sleeping for 86349.05 seconds until ETL run at 21:00.
+2025-07-18 21:09:06,271 - INFO - ETL Scheduler initialized.
+2025-07-18 21:09:06,272 - INFO - Sleeping for 173.73 seconds until ETL run at 21:00.
+2025-07-18 21:12:00,001 - INFO - ETL pipeline started.
+2025-07-18 21:12:00,001 - INFO - Starting data extraction.
+2025-07-18 21:12:28,384 - INFO - Data extraction successful.
+2025-07-18 21:12:28,385 - INFO - Starting data transformation.
+2025-07-18 21:12:34,685 - INFO - Data transformation successful.
+2025-07-18 21:12:34,685 - INFO - Starting data loading.
+2025-07-18 21:14:08,209 - INFO - Data loading successful.
+2025-07-18 21:14:08,209 - INFO - ETL pipeline completed successfully.
+2025-07-18 21:14:08,620 - INFO - ETL Scheduler finished.
+2025-07-18 21:14:50,750 - INFO - ETL Scheduler initialized.
+2025-07-18 21:14:50,750 - INFO - Sleeping for 86229.25 seconds until ETL run at 21:00.
+2025-07-19 00:42:13,552 - INFO - ETL Scheduler initialized.
+2025-07-19 00:42:13,571 - INFO - Sleeping for 46.43 seconds until ETL run at 21:00.
+2025-07-19 00:43:00,001 - INFO - ETL pipeline started.
+2025-07-19 00:43:00,002 - INFO - Starting data extraction.
+2025-07-19 00:43:08,699 - INFO - Data extraction successful.
+2025-07-19 00:43:08,699 - INFO - Starting data transformation.
+2025-07-19 00:43:46,088 - INFO - Data transformation successful.
+2025-07-19 00:43:46,120 - INFO - Starting data loading.
+2025-07-19 00:43:52,467 - INFO - Data loading successful.
+2025-07-19 00:43:52,467 - INFO - ETL pipeline completed successfully.
+2025-07-19 00:43:52,570 - INFO - ETL Scheduler finished.

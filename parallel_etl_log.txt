@@ -1,0 +1,87 @@
+2025-07-18 23:31:11,040 - INFO - MainThread - Parallel ETL Scheduler started.
+2025-07-18 23:31:11,042 - INFO - Source1 - Source1 sleeping for 71928.96 seconds.
+2025-07-18 23:31:11,042 - INFO - Source2 - Source2 sleeping for 71928.96 seconds.
+2025-07-18 23:34:11,670 - INFO - MainThread - Parallel ETL Scheduler started.
+2025-07-18 23:34:11,672 - INFO - Source1 - Source1 sleeping for 48.33 seconds.
+2025-07-18 23:34:11,672 - INFO - Source2 - Source2 sleeping for 48.33 seconds.
+2025-07-18 23:35:00,001 - INFO - Source2 - ETL pipeline started for Source2
+2025-07-18 23:35:00,001 - INFO - Source1 - ETL pipeline started for Source1
+2025-07-18 23:35:00,002 - INFO - Source2 - Starting extraction from dataset/source2.csv
+2025-07-18 23:35:00,002 - INFO - Source1 - Starting extraction from dataset/source1.csv
+2025-07-18 23:35:05,911 - INFO - Source1 - Extraction successful for dataset/source1.csv
+2025-07-18 23:35:05,911 - INFO - Source1 - Starting transformation for Source1
+2025-07-18 23:35:09,808 - INFO - Source1 - Transformation successful for Source1
+2025-07-18 23:35:09,809 - INFO - Source1 - Starting loading to dataset/source1_transformed.csv
+2025-07-18 23:35:17,193 - INFO - Source2 - Extraction successful for dataset/source2.csv
+2025-07-18 23:35:17,194 - INFO - Source2 - Starting transformation for Source2
+2025-07-18 23:35:17,222 - INFO - Source2 - Transformation successful for Source2
+2025-07-18 23:35:17,223 - INFO - Source2 - Starting loading to dataset/source2_transformed.csv
+2025-07-18 23:35:37,050 - INFO - Source1 - Loading successful to dataset/source1_transformed.csv
+2025-07-18 23:35:37,050 - INFO - Source1 - ETL pipeline completed successfully for Source1
+2025-07-18 23:35:39,860 - INFO - Source2 - Loading successful to dataset/source2_transformed.csv
+2025-07-18 23:35:39,860 - INFO - Source2 - ETL pipeline completed successfully for Source2
+2025-07-18 23:35:39,978 - INFO - MainThread - All ETL jobs completed.
+2025-07-18 23:35:39,978 - INFO - MainThread - Parallel ETL Scheduler finished.
+2025-07-19 00:59:44,560 - INFO - MainThread - Parallel ETL Scheduler started.
+2025-07-19 00:59:44,590 - INFO - Source1 - Source1 sleeping for 75.41 seconds.
+2025-07-19 00:59:44,590 - INFO - Source2 - Source2 sleeping for 75.41 seconds.
+2025-07-19 01:01:00,001 - INFO - Source1 - ETL pipeline started for Source1
+2025-07-19 01:01:00,002 - INFO - Source2 - ETL pipeline started for Source2
+2025-07-19 01:01:00,002 - INFO - Source1 - Starting extraction from dataset/source1.csv
+2025-07-19 01:01:00,003 - INFO - Source2 - Starting extraction from dataset/source2.csv
+2025-07-19 01:01:11,251 - INFO - Source2 - Extraction successful for dataset/source2.csv
+2025-07-19 01:01:11,251 - INFO - Source2 - Starting transformation for Source2
+2025-07-19 01:01:13,223 - INFO - Source1 - Extraction successful for dataset/source1.csv
+2025-07-19 01:01:13,224 - INFO - Source1 - Starting transformation for Source1
+2025-07-19 01:01:50,354 - INFO - Source2 - Transformation successful for Source2
+2025-07-19 01:01:50,473 - INFO - Source2 - Starting loading to dataset/source2_transformed_data.csv
+2025-07-19 01:01:52,548 - INFO - Source1 - Transformation successful for Source1
+2025-07-19 01:01:52,570 - INFO - Source1 - Starting loading to dataset/source1_transformed_data.csv
+2025-07-19 01:01:59,596 - INFO - Source1 - Loading successful to dataset/source1_transformed_data.csv
+2025-07-19 01:01:59,596 - INFO - Source1 - ETL pipeline completed successfully for Source1
+2025-07-19 01:01:59,813 - INFO - Source2 - Loading successful to dataset/source2_transformed_data.csv
+2025-07-19 01:01:59,814 - INFO - Source2 - ETL pipeline completed successfully for Source2
+2025-07-19 01:01:59,863 - INFO - MainThread - All ETL jobs completed.
+2025-07-19 01:01:59,864 - INFO - MainThread - Parallel ETL Scheduler finished.
+2025-07-19 01:13:22,623 - INFO - MainThread - Parallel ETL Scheduler started.
+2025-07-19 01:13:24,141 - INFO - Source1 - Source1 sleeping for 35.86 seconds
+2025-07-19 01:13:24,142 - INFO - Source2 - Source2 sleeping for 35.86 seconds
+2025-07-19 01:14:00,001 - INFO - Source2 - ETL started for Source2
+2025-07-19 01:14:00,001 - INFO - Source1 - ETL started for Source1
+2025-07-19 01:14:01,006 - INFO - Source1 - Starting extraction from dataset/source1.csv
+2025-07-19 01:14:01,007 - INFO - Source2 - Starting extraction from dataset/source2.csv
+2025-07-19 01:14:07,810 - INFO - Source1 - Extraction successful for dataset/source1.csv
+2025-07-19 01:14:07,811 - INFO - Source1 - Starting transformation for Source1
+2025-07-19 01:14:08,779 - INFO - Source2 - Extraction successful for dataset/source2.csv
+2025-07-19 01:14:08,825 - INFO - Source2 - Starting transformation for Source2
+2025-07-19 01:14:48,451 - INFO - Source1 - Transformation successful for Source1
+2025-07-19 01:14:48,600 - INFO - Source1 - Starting loading to dataset/source1_transformed_data.csv
+2025-07-19 01:14:48,642 - INFO - Source2 - Transformation successful for Source2
+2025-07-19 01:14:48,664 - INFO - Source2 - Starting loading to dataset/source2_transformed_data.csv
+2025-07-19 01:14:55,049 - INFO - Source2 - Loading successful to dataset/source2_transformed_data.csv
+2025-07-19 01:14:55,050 - INFO - Source2 - ETL finished for Source2 in 55.05 seconds
+2025-07-19 01:14:56,809 - INFO - Source1 - Loading successful to dataset/source1_transformed_data.csv
+2025-07-19 01:14:56,809 - INFO - Source1 - ETL finished for Source1 in 56.81 seconds
+2025-07-19 01:14:56,863 - INFO - MainThread - All ETL jobs completed.
+2025-07-19 01:14:56,863 - INFO - MainThread - Parallel ETL Scheduler finished.
+2025-07-19 12:26:07,514 - INFO - MainThread - Parallel ETL Scheduler started.
+2025-07-19 12:26:08,601 - INFO - Source1 - Source1 sleeping for 51.40 seconds
+2025-07-19 12:26:08,603 - INFO - Source2 - Source2 sleeping for 51.40 seconds
+2025-07-19 12:27:00,001 - INFO - Source1 - ETL started for Source1
+2025-07-19 12:27:00,001 - INFO - Source2 - ETL started for Source2
+2025-07-19 12:27:02,069 - INFO - Source2 - Starting extraction from dataset/source2.csv
+2025-07-19 12:27:02,080 - INFO - Source1 - Starting extraction from dataset/source1.csv
+2025-07-19 12:27:14,388 - INFO - Source1 - Extraction successful for dataset/source1.csv
+2025-07-19 12:27:14,388 - INFO - Source1 - Starting transformation for Source1
+2025-07-19 12:27:14,539 - INFO - Source2 - Extraction successful for dataset/source2.csv
+2025-07-19 12:27:14,540 - INFO - Source2 - Starting transformation for Source2
+2025-07-19 12:27:49,662 - INFO - Source2 - Transformation successful for Source2
+2025-07-19 12:27:49,711 - INFO - Source2 - Starting loading to dataset/source2_transformed_data.csv
+2025-07-19 12:27:50,595 - INFO - Source1 - Transformation successful for Source1
+2025-07-19 12:27:50,683 - INFO - Source1 - Starting loading to dataset/source1_transformed_data.csv
+2025-07-19 12:27:56,176 - INFO - Source1 - Loading successful to dataset/source1_transformed_data.csv
+2025-07-19 12:27:56,178 - INFO - Source1 - ETL finished for Source1 in 56.18 seconds
+2025-07-19 12:27:56,557 - INFO - Source2 - Loading successful to dataset/source2_transformed_data.csv
+2025-07-19 12:27:56,557 - INFO - Source2 - ETL finished for Source2 in 56.56 seconds
+2025-07-19 12:27:56,606 - INFO - MainThread - All ETL jobs completed.
+2025-07-19 12:27:56,607 - INFO - MainThread - Parallel ETL Scheduler finished.

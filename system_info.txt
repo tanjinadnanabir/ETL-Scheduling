@@ -1,0 +1,7 @@
+===== System Information =====
+Platform       : Windows 10
+CPU Cores      : 2 physical / 4 logical
+Total Memory   : 7.91 GB
+Available Mem  : 1.33 GB
+CPU Usage per Core: [31.4, 15.6, 18.8, 14.1]%
+==============================

@@ -1,0 +1,7 @@
+[Source1]
+Thread Name   : Source1
+PID           : 11984
+Core ID       : N/A
+Memory Usage  : 76.39 MB
+CPU/Core Usage: [22.7, 15.6, 23.1, 16.9]%
+----------------------------

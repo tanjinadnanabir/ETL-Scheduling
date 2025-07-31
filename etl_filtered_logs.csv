@@ -1,0 +1,67 @@
+time,level,thread,message
+2025-07-18 23:31:11,INFO,MainThread,Parallel ETL Scheduler started.
+2025-07-18 23:31:11,INFO,Source1,Source1 sleeping for 71928.96 seconds.
+2025-07-18 23:31:11,INFO,Source2,Source2 sleeping for 71928.96 seconds.
+2025-07-18 23:34:11,INFO,MainThread,Parallel ETL Scheduler started.
+2025-07-18 23:34:11,INFO,Source1,Source1 sleeping for 48.33 seconds.
+2025-07-18 23:34:11,INFO,Source2,Source2 sleeping for 48.33 seconds.
+2025-07-18 23:35:00,INFO,Source2,ETL pipeline started for Source2
+2025-07-18 23:35:00,INFO,Source1,ETL pipeline started for Source1
+2025-07-18 23:35:00,INFO,Source2,Starting extraction from dataset/source2.csv
+2025-07-18 23:35:00,INFO,Source1,Starting extraction from dataset/source1.csv
+2025-07-18 23:35:05,INFO,Source1,Extraction successful for dataset/source1.csv
+2025-07-18 23:35:05,INFO,Source1,Starting transformation for Source1
+2025-07-18 23:35:09,INFO,Source1,Transformation successful for Source1
+2025-07-18 23:35:09,INFO,Source1,Starting loading to dataset/source1_transformed.csv
+2025-07-18 23:35:17,INFO,Source2,Extraction successful for dataset/source2.csv
+2025-07-18 23:35:17,INFO,Source2,Starting transformation for Source2
+2025-07-18 23:35:17,INFO,Source2,Transformation successful for Source2
+2025-07-18 23:35:17,INFO,Source2,Starting loading to dataset/source2_transformed.csv
+2025-07-18 23:35:37,INFO,Source1,Loading successful to dataset/source1_transformed.csv
+2025-07-18 23:35:37,INFO,Source1,ETL pipeline completed successfully for Source1
+2025-07-18 23:35:39,INFO,Source2,Loading successful to dataset/source2_transformed.csv
+2025-07-18 23:35:39,INFO,Source2,ETL pipeline completed successfully for Source2
+2025-07-18 23:35:39,INFO,MainThread,All ETL jobs completed.
+2025-07-18 23:35:39,INFO,MainThread,Parallel ETL Scheduler finished.
+2025-07-19 00:59:44,INFO,MainThread,Parallel ETL Scheduler started.
+2025-07-19 00:59:44,INFO,Source1,Source1 sleeping for 75.41 seconds.
+2025-07-19 00:59:44,INFO,Source2,Source2 sleeping for 75.41 seconds.
+2025-07-19 01:01:00,INFO,Source1,ETL pipeline started for Source1
+2025-07-19 01:01:00,INFO,Source2,ETL pipeline started for Source2
+2025-07-19 01:01:00,INFO,Source1,Starting extraction from dataset/source1.csv
+2025-07-19 01:01:00,INFO,Source2,Starting extraction from dataset/source2.csv
+2025-07-19 01:01:11,INFO,Source2,Extraction successful for dataset/source2.csv
+2025-07-19 01:01:11,INFO,Source2,Starting transformation for Source2
+2025-07-19 01:01:13,INFO,Source1,Extraction successful for dataset/source1.csv
+2025-07-19 01:01:13,INFO,Source1,Starting transformation for Source1
+2025-07-19 01:01:50,INFO,Source2,Transformation successful for Source2
+2025-07-19 01:01:50,INFO,Source2,Starting loading to dataset/source2_transformed_data.csv
+2025-07-19 01:01:52,INFO,Source1,Transformation successful for Source1
+2025-07-19 01:01:52,INFO,Source1,Starting loading to dataset/source1_transformed_data.csv
+2025-07-19 01:01:59,INFO,Source1,Loading successful to dataset/source1_transformed_data.csv
+2025-07-19 01:01:59,INFO,Source1,ETL pipeline completed successfully for Source1
+2025-07-19 01:01:59,INFO,Source2,Loading successful to dataset/source2_transformed_data.csv
+2025-07-19 01:01:59,INFO,Source2,ETL pipeline completed successfully for Source2
+2025-07-19 01:01:59,INFO,MainThread,All ETL jobs completed.
+2025-07-19 01:01:59,INFO,MainThread,Parallel ETL Scheduler finished.
+2025-07-19 01:13:22,INFO,MainThread,Parallel ETL Scheduler started.
+2025-07-19 01:13:24,INFO,Source1,Source1 sleeping for 35.86 seconds
+2025-07-19 01:13:24,INFO,Source2,Source2 sleeping for 35.86 seconds
+2025-07-19 01:14:00,INFO,Source2,ETL started for Source2
+2025-07-19 01:14:00,INFO,Source1,ETL started for Source1
+2025-07-19 01:14:01,INFO,Source1,Starting extraction from dataset/source1.csv
+2025-07-19 01:14:01,INFO,Source2,Starting extraction from dataset/source2.csv
+2025-07-19 01:14:07,INFO,Source1,Extraction successful for dataset/source1.csv
+2025-07-19 01:14:07,INFO,Source1,Starting transformation for Source1
+2025-07-19 01:14:08,INFO,Source2,Extraction successful for dataset/source2.csv
+2025-07-19 01:14:08,INFO,Source2,Starting transformation for Source2
+2025-07-19 01:14:48,INFO,Source1,Transformation successful for Source1
+2025-07-19 01:14:48,INFO,Source1,Starting loading to dataset/source1_transformed_data.csv
+2025-07-19 01:14:48,INFO,Source2,Transformation successful for Source2
+2025-07-19 01:14:48,INFO,Source2,Starting loading to dataset/source2_transformed_data.csv
+2025-07-19 01:14:55,INFO,Source2,Loading successful to dataset/source2_transformed_data.csv
+2025-07-19 01:14:55,INFO,Source2,ETL finished for Source2 in 55.05 seconds
+2025-07-19 01:14:56,INFO,Source1,Loading successful to dataset/source1_transformed_data.csv
+2025-07-19 01:14:56,INFO,Source1,ETL finished for Source1 in 56.81 seconds
+2025-07-19 01:14:56,INFO,MainThread,All ETL jobs completed.
+2025-07-19 01:14:56,INFO,MainThread,Parallel ETL Scheduler finished.
